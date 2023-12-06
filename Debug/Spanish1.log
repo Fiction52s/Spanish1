@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ficti\documents\visual studio 2015\projects\spanish1\spanish1\main.cpp(1178): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ficti\documents\visual studio 2015\projects\spanish1\spanish1\main.cpp(1257): warning C4018: '<': signed/unsigned mismatch
+c:\users\ficti\documents\visual studio 2015\projects\spanish1\spanish1\main.cpp(1189): warning C4101: 'r': unreferenced local variable
+  Spanish1.vcxproj -> C:\Users\ficti\Documents\Visual Studio 2015\Projects\Spanish1\Debug\Spanish1.exe
+  Spanish1.vcxproj -> C:\Users\ficti\Documents\Visual Studio 2015\Projects\Spanish1\Debug\Spanish1.pdb (Partial PDB)
