@@ -506,7 +506,7 @@ void fill1123()
 	add("raro", "weird");
 	add("confuso", "confused");
 	add("aturdido", "dazed");
-	add("volver", "to return");
+	add("volverse", "to become");
 }
 
 //do numbers soon so you get them completely mastered
@@ -728,7 +728,7 @@ void opm1()
 	add("propio", "own"); //like my own X
 	add("devorar", "to devour");
 	add("civilizacion", "civilization");
-	add("faz", "face");
+	add("faz", "face (formal)");
 	add("nacer", "to be born");
 	add("eliminar", "to eliminate");
 	add("malvado", "evil (descriptor)");
@@ -1024,7 +1024,7 @@ void opm5()
 	add("atrapar", "to catch");
 }
 
-void fillNew()
+void opm6()
 {
 	//chapter 6
 	add("incenerar", "to incinerate");
@@ -1045,7 +1045,6 @@ void fillNew()
 	add("mayor", "bigger");
 	add("convocar", "to summon");
 	add("bastardo", "bastard");
-	add("ese", "that one"); //that, but referring to one thing
 	add("nube", "cloud");
 	add("retorcer", "to twist"); //or to squirm
 	add("disparar", "to shoot");
@@ -1061,7 +1060,7 @@ void fillNew()
 	add("debil", "weak"); //accent on the e
 	add("fragil", "fragile"); //accent on the a
 	add("mientras", "while");
-	add("velos", "fast");
+	add("veloz", "fast");
 	add("consumir", "to consume");
 	add("bajar", "to descend");//to go down
 	add("guardia", "guard");
@@ -1069,7 +1068,10 @@ void fillNew()
 	add("odiar", "to hate");
 	add("permitir", "to allow"); //to permit
 	add("discipulo", "disciple"); //accent on the 2nd i
+}
 
+void opm7()
+{
 	//chapter 7
 	add("maestro", "master");
 	add("vete", "go away");
@@ -1085,7 +1087,7 @@ void fillNew()
 	add("tan", "so"); // as in so much
 	add("incluso", "including");
 	add("enloquecer", "to go crazy"); //or to drive crazy
-	add("reptentinamente", "suddenly");
+	add("repentinamente", "suddenly");
 	add("loco", "crazy");
 	add("completo", "complete");
 	add("dano", "damage"); //n has a squiggle, pronounced danyo
@@ -1097,7 +1099,7 @@ void fillNew()
 	add("detener", "to detain"); //to delay, to arrest
 	add("suplicar", "to beg");
 	add("renacer", "to be reborn");
-	add("incontables", "innumerable");
+	add("incontable", "innumerable");
 	add("organizacion", "organization");
 	add("pista", "clue"); //or "tracks", like animal tracks
 	add("paradero", "whereabouts");
@@ -1115,7 +1117,7 @@ void fillNew()
 	add("lo que sea", "whatever");
 	add("resumir", "to summarize");
 	add("oracion", "sentence");
-	add("maximo", "maximium"); //accent on the a
+	add("maximo", "maximum"); //accent on the a
 	add("ala", "wing");
 	add("prototipo", "prototype");
 	add("camara", "camera"); //accent on the first a
@@ -1142,6 +1144,59 @@ void fillNew()
 	add("a traves de", "through"); //accent on the e in traves
 	add("energia", "energy"); //accent on the i
 	add("detectar", "to detect");
+	add("milagro", "miracle");
+	add("ninguna", "none");
+}
+
+void fillNew()
+{
+	//chapter 8
+	add("objectivo", "objective");
+	add("destello", "sparkle");
+	add("a lo que", "to which");
+	add("aprieto", "predicament");
+	add("resistirse", "to resist");
+	add("lentamente", "slowly");
+	add("pecho", "chest");
+	add("caracter", "character"); //accent on the 2nd a
+	add("sujetar", "to hold");
+	add("conocimiento", "knowledge");
+	add("evolucion", "evolution");
+	add("gorila", "gorilla");
+	add("blindar", "to shield");
+	add("lo que", "what"); //what I want for christmas
+	add("concernir", "to concern");
+	add("regla", "rule");
+	add("a quien", "anyone");
+	add("sin falta", "without fail");
+	add("mirada", "look");
+	add("hay", "there is");
+	add("cara", "face");
+	add("que hay", "what's up");
+	add("como ves", "as you can see");
+	add("agradable", "agreeable");
+	add("situacion", "situation");
+
+	add("arrancar", "to pull out");
+	add("ambos", "both");
+	add("basta", "enough");
+	add("disculparse", "to apologize");
+	add("liberar", "to free");
+	add("suciedad", "dirt");
+	add("calzoncillos", "underpants");
+	add("bestia", "beast");
+	add("extremidad", "limb");//or extremity
+	add("meteorito", "meteorite");
+	add("consecutivo", "consecutive");
+	add("regresar", "to go back");
+	add("bromear", "to joke");
+	add("escoger", "to choose"); //prounounced esco hair
+	add("unico", "only"); //accent on the u
+	add("descerebrado", "brainless");
+	add("terminos", "terms"); //accent on the e
+	add("que demonios", "what the hell");
+	add("tratar", "to treat");
+	add("tratar de", "to try");
 }
 
 
@@ -1158,7 +1213,10 @@ void fill()
 	opm1();
 	opm2();
 	opm3();
-	opm4();*/
+	opm4();
+	opm5();
+	opm6();
+	opm7();*/
 
 	fillNew();
 }
